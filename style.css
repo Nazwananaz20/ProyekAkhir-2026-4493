@@ -16,7 +16,7 @@
 body { 
   font-family: Arial, sans-serif;
   color: #057a83d7;
-  background-color: #1560ac;
+  background-color: #118286;
   margin: 0;
   padding: 20px;
 }
@@ -27,7 +27,7 @@ body {
   max-width: 800px;
   margin: 30 auto;
   padding : 25px;
-  border: 1px solid #ddddddde;
+  border: 1px solid #39bea2c4;
   border-radius: 12px;
   background-color: white;
 }
@@ -42,7 +42,7 @@ body {
   margin-bottom: 20px;
   border: 1px solid #0a898d;
   border-radius: 8px;
-  background-color: #ffffff;
+  background-color:aqua;
 }
 
 /* TODO CSS-03: Atur ukuran input, padding, jarak antar elemen,
@@ -61,7 +61,7 @@ body {
   width: 100%;
   padding: 12px;
   font-size: 15px;
-  border: 1px solid #cccccc;
+  border: 1px solid palegreen;
   border-radius: 6px;
 }
 
@@ -74,7 +74,7 @@ body {
 .aksi button {
   padding: 10px 20px;
   background-color: 167d8d;
-  color: white;
+  color: navy;
   border-radius: 6px;
   cursor: pointer;
 }
@@ -110,6 +110,6 @@ body {
 #pesanStatus.gagal {
   padding: 12px;
   background-color: f8d7da;
-  color: #721c24;
+  color: beige;
   border-radius: 6px;
 }
